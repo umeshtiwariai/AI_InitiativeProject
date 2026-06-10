@@ -1,0 +1,22 @@
+SMART WSR REPORT
+
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+UD Not Started: 2
+Dropped / On Hold: 0
+Total Projects: 15
+
+EXECUTIVE SUMMARY
+- *   We successfully delivered one project to Go Live this period, bringing our total completed projects to two.
+- *   Five projects are currently in the UAT phase, representing our largest active pipeline segment and a key focus for accelerating delivery.
+- *   Progress on multiple UAT projects is currently hampered by external dependencies, specifically awaiting UIDAI data, FTS confirmations, and critical API prerequisites.
+- *   Two projects are awaiting Purchase Order approval, with one project stalled for over two months post-proposal submission, delaying initiation.
+- *   Prioritized efforts are underway to resolve external UAT dependencies and expedite PO approvals to ensure continuous pipeline flow and accelerate project completion.
+
+RISKS
+- Here are the raw risks converted into leadership-ready risks:
+- *   **Delayed integration of critical payment methods (e.g., UPI) for customer funding platforms, potentially impacting customer acquisition, satisfaction, and transaction volumes.**
+- *   **Ongoing delays in implementing essential system and form updates for key financial accounts (e.g., PIS), creating operational bottlenecks and potential compliance exposures.**

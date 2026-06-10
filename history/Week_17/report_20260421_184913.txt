@@ -1,0 +1,16 @@
+Smart Weekly Status Report
+
+- *   One project successfully went live this week, bringing the total completed projects to two.
+- *   UAT sign-offs remain a key focus, with one project experiencing delays due to an external UIDAI issue.
+- *   Two projects are currently awaiting Purchase Order approvals to advance to the next stage.
+- *   Progress on another critical project is pending external confirmations from FTS and IDEA.
+- *   The active pipeline includes 5 projects in UAT and 4 in User Document stages, requiring continued stakeholder engagement.
+
+Summary
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+On Hold: 0
+Total: 15

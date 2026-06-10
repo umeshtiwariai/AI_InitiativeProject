@@ -1,0 +1,16 @@
+Smart Weekly Status Report
+
+- *   One project successfully went live on April 13th.
+- *   Two projects are currently awaiting UAT sign-off.
+- *   One UAT project is experiencing an issue at UIDAI concerning new response tags and test data.
+- *   Awaiting Purchase Order (PO) for one project following proposal submission.
+- *   FTS confirmation and an update from IDEA are pending for one project.
+
+Summary
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+On Hold: 0
+Total: 15

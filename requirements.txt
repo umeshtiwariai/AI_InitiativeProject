@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+langchain
+langgraph
+langchain-google-genai
+plotly
+openpyxl
+python-pptx
+reportlab
+pillow
+chromadb
+requests

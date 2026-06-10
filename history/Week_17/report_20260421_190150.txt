@@ -1,0 +1,14 @@
+Smart Weekly Status Report
+
+- *   One project successfully went live this week, bringing the total to 2 Go-Live projects, with 5 currently in User Acceptance Testing and 4 in User Design.
+- *   Five projects are in User Acceptance Testing, with two experiencing delays due to external dependencies, including a critical UIDAI issue.
+- *   Two projects are awaiting Purchase Order approval to proceed, while four projects are actively progressing in the User Design phase.
+
+Summary
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+On Hold: 0
+Total: 15

@@ -1,0 +1,14 @@
+Smart Weekly Status Report
+
+- Portfolio execution progressing as planned.
+- Delivery momentum maintained this week.
+- Focused attention needed on aging items.
+
+Summary
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+On Hold: 0
+Total: 15

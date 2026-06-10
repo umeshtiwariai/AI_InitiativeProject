@@ -1,0 +1,22 @@
+SMART WSR REPORT
+
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+UD Not Started: 2
+Dropped / On Hold: 0
+Total Projects: 15
+
+EXECUTIVE SUMMARY
+- Here are 5 executive summary bullets:
+- *   Two projects successfully achieved Go Live this period, bringing the total to 13% of the portfolio. A substantial 33% of projects are currently in User Acceptance Testing (UAT).
+- *   UAT progress is significantly impacted by external dependencies, including critical issues with UIDAI for new response tags and awaited confirmations from FTS/IDEA, delaying sign-offs for multiple projects.
+- *   Two projects (13%) are currently stalled awaiting Purchase Order (PO) release, impacting the initiation of their development phases.
+- *   The project pipeline includes 4 projects in the User Document (UD) phase and 2 projects yet to commence UD, indicating a healthy forward-looking portfolio.
+
+RISKS
+- Here are 3 leadership-ready risks:
+- *   Delayed implementation of key customer-facing payment functionalities is impacting customer experience and potentially hindering revenue growth.
+- *   Persistent delays in critical internal system updates and regulatory compliance implementations are exposing the organization to operational inefficiencies and heightened compliance risks.

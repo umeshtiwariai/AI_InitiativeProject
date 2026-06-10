@@ -1,0 +1,22 @@
+SMART WSR REPORT
+
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+UD Not Started: 2
+Dropped / On Hold: 0
+Total Projects: 15
+
+EXECUTIVE SUMMARY
+- **EXECUTIVE SUMMARY**
+- *   Two projects successfully achieved Go Live this period, advancing our delivered portfolio to 13% and demonstrating continued execution capability.
+- *   Our largest active segment, comprising five projects (33%) in User Acceptance Testing (UAT), faces significant external dependencies, impacting timely sign-offs and requiring focused mitigation.
+- *   A substantial pipeline of six projects (40%) is progressing through or awaiting User Design, indicating a healthy future development roadmap.
+- *   With zero projects currently in active Development, our focus remains on accelerating UAT completion and advancing early-stage projects into execution.
+
+RISKS
+- Since no raw risks were provided, here are three examples of leadership-ready risks, demonstrating the typical structure and focus:
+- *   **Strategic Market Shift:** Our current product roadmap may not adequately address emerging customer preferences and disruptive technologies, risking a 15% decline in market share within the next 18 months and jeopardizing our long-term competitive advantage.
+- *   **Critical Talent Attrition:** The increasing rate of voluntary departures among our key technical and leadership personnel threatens our ability to deliver on critical strategic initiatives, potentially delaying project timelines by 3-6 months and increasing operational costs by 10-15% due to recruitment and training.

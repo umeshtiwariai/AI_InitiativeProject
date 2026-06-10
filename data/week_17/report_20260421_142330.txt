@@ -1,0 +1,22 @@
+SMART WSR REPORT
+
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+UD Not Started: 2
+Dropped / On Hold: 0
+Total Projects: 15
+
+EXECUTIVE SUMMARY
+- Here is the revised report:
+- **EXECUTIVE SUMMARY**
+- *   Two projects successfully achieved Go Live this period, bringing our delivered portfolio to 13%.
+- *   Five projects are in User Acceptance Testing (UAT), representing our largest active pipeline segment and a key focus for accelerated delivery.
+- *   UAT progress is significantly impacted by external dependencies, including critical UIDAI data, FTS confirmations, and API prerequisites, delaying sign-offs.
+
+RISKS
+- No raw risks were provided in the input. However, I can demonstrate what "leadership-ready risks" look like by providing three common examples, framed for strategic decision-making:
+- *   **Strategic Market Shift:** A significant shift in customer preferences or the competitive landscape could erode our market share and long-term profitability if we fail to adapt our product roadmap and go-to-market strategy proactively.
+- *   **Critical Talent Attrition:** Increasing attrition among key technical or leadership talent poses a substantial threat to our project delivery timelines and innovation capacity, directly impacting our ability to achieve strategic growth objectives.

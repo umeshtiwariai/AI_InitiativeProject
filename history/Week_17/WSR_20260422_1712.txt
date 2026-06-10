@@ -1,0 +1,9 @@
+Smart Weekly Status Report V5
+Week 17 | 20 Apr - 26 Apr 2026
+
+Executive Summary
+- Here are 5 executive weekly status bullets:
+- Our portfolio currently manages 15 active projects, with 2 successfully delivered and 5 in UAT.
+- A key project successfully went live on April 13th, contributing to our delivered count.
+- Five projects are in UAT, with two facing external dependencies related to API prerequisites and UIDAI issues.
+- Three projects remain delayed beyond 60 days, and we are actively addressing their respective blockers.

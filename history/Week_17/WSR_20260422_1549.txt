@@ -1,0 +1,9 @@
+Smart Weekly Status Report V5
+Week 17 | 20 Apr - 26 Apr 2026
+
+Executive Summary
+- *   Achieved a key project go-live this week, increasing our delivered portfolio to 2 out of 15 active projects.
+- *   Five projects are currently in UAT, with sign-off remaining a critical bottleneck due to internal and external dependencies.
+- *   Three projects are significantly delayed (>60 days), requiring immediate intervention to unblock critical path items.
+- *   A critical external dependency with UIDAI on new response tags is currently delaying UAT sign-off for a key initiative.
+- *   Our immediate focus is on resolving UAT sign-off blockers and accelerating progress on projects awaiting external confirmations.

@@ -1,0 +1,17 @@
+Smart Weekly Status Report
+
+- Portfolio execution remains stable.
+- Delivery momentum continued this week.
+- Focused attention required on aging items.
+- UAT pipeline remains active.
+- Cross-team coordination progressing.
+
+Metrics
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+UD Not Started: 2
+Dropped / On Hold: 0
+Total: 15

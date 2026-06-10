@@ -1,0 +1,18 @@
+SMART WSR REPORT
+
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+UD Not Started: 2
+Dropped / On Hold: 0
+Total Projects: 15
+
+EXECUTIVE SUMMARY
+- *   Protracted User Acceptance Testing (UAT) due to external dependencies is creating a significant bottleneck for a third of our projects, directly impacting our ability to accelerate market delivery and realize strategic benefits.
+
+RISKS
+- Given that no specific raw risks were provided, here are three examples of leadership-ready risks, demonstrating the conversion from a hypothetical raw risk to a strategic, impact-focused statement:
+- *   Unmitigated cybersecurity vulnerabilities pose a high risk of data breach, potentially leading to significant financial penalties, operational disruption, and erosion of customer trust.
+- *   Rapid shifts in market demand and competitive landscape threaten our long-term revenue growth and market share, requiring immediate strategic adaptation and innovation.

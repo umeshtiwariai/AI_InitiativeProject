@@ -1,0 +1,16 @@
+Smart Weekly Status Report
+
+- *   One project successfully went live on April 13th.
+- *   Two projects are awaiting UAT sign-off, with one facing a blocker due to a UIDAI response tag issue.
+- *   Awaiting Purchase Order for one project following proposal submission.
+- *   Progress on one initiative is pending FTS confirmation and an update from IDEA.
+- *   The portfolio currently has 5 projects in UAT, 4 in UD, and 2 awaiting PO, with 2 projects recently gone live.
+
+Summary
+Go Live: 2
+PO Awaited: 2
+UAT: 5
+Development: 0
+In UD: 4
+On Hold: 0
+Total: 15
